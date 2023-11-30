@@ -1,3 +1,5 @@
-# Elzero-HTML-And-CSS-Kasper-Design-2
+# Elzero HTML And CSS Design 2
+The second design coding with Elzero Web School using HTML and CSS only, responsive with my enhancements.
 
-Our Awesome Design with Elzero Web Schoold by Kasper
+**Browse it Live:**
+https://blackcheetahsy.github.io/Elzero-HTML-And-CSS-Design-2/
